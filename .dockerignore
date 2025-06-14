@@ -1,0 +1,12 @@
+node_modules
+coverage
+.git
+.github
+.gitignore
+.dockerignore
+.travis.yml
+Dockerfile
+fly.toml
+Procfile
+README.md
+LICENSE
